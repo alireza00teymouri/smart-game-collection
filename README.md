@@ -1,4 +1,6 @@
-📌 English Version (Professional GitHub Style) 🎮 Smart Game Collection
+📌 
+
+🎮 Smart Game Collection
 
 This project is a GUI-based game collection built with Python and CustomTkinter, featuring classic mini-games enhanced with adjustable AI difficulty levels.
 

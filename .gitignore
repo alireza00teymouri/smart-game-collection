@@ -1,0 +1,14 @@
+
+game_stats.json 
+# فایل‌های بایت‌کد پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+ 
+# پوشه‌های ویرایشگرها
+.idea/
+.vscode/
+
+ 

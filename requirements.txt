@@ -1,0 +1,5 @@
+customtkinter                    
+
+pip install custom tkinter
+
+python main.py
